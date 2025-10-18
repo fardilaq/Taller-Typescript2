@@ -1,0 +1,27 @@
+
+.container-fluid {
+    background-color: rgb(80, 142, 235);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+
+}
+
+.table {
+  font-family: Arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ffffff;
+  border-width: 4px;
+  text-align: left;
+  padding: 8px;
+}
+
+.table th {
+  background-color: #fd7a00;
+  color: white;
+}
