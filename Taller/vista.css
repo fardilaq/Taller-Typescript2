@@ -25,3 +25,9 @@
   background-color: #fd7a00;
   color: white;
 }
+
+.table-holder {
+  max-width: 900px;
+}
+
+a.serie-link { cursor: pointer; }
